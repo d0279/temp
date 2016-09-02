@@ -9,6 +9,7 @@ public class hello_git {
 		//l
 		//l
 		//ll
+		System.out.println("¿Ô´Ù°¨");
 	}
 	
 }
